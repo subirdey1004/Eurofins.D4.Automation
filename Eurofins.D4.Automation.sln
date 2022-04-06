@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eurofins.D4.Automation.Helper", "Eurofins.D4.Automation\Eurofins.D4.Automation.Helper.csproj", "{2C4703C3-92A9-4849-B135-31B98B3B7100}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eurofins.D4.Automation.GenericsForm", "Eurofins.D4.Automation.GenericsForm\Eurofins.D4.Automation.GenericsForm.csproj", "{92A90CA3-3720-45A6-AF32-8EFC99EE90E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eurofins.D4.Automation.PTSHomePage", "Eurofins.D4.Automation.PTS\Eurofins.D4.Automation.PTSHomePage.csproj", "{EA38E96C-37AD-4D62-B48C-3F320EC1DBEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eurofins.D4.DRSHomePage", "Eurofins.D4.DashBoard\Eurofins.D4.DRSHomePage.csproj", "{97D14799-334A-44D5-BBDA-BE41AE4348A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4703C3-92A9-4849-B135-31B98B3B7100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4703C3-92A9-4849-B135-31B98B3B7100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4703C3-92A9-4849-B135-31B98B3B7100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4703C3-92A9-4849-B135-31B98B3B7100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A90CA3-3720-45A6-AF32-8EFC99EE90E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A90CA3-3720-45A6-AF32-8EFC99EE90E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A90CA3-3720-45A6-AF32-8EFC99EE90E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A90CA3-3720-45A6-AF32-8EFC99EE90E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA38E96C-37AD-4D62-B48C-3F320EC1DBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA38E96C-37AD-4D62-B48C-3F320EC1DBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA38E96C-37AD-4D62-B48C-3F320EC1DBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA38E96C-37AD-4D62-B48C-3F320EC1DBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D14799-334A-44D5-BBDA-BE41AE4348A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D14799-334A-44D5-BBDA-BE41AE4348A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D14799-334A-44D5-BBDA-BE41AE4348A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D14799-334A-44D5-BBDA-BE41AE4348A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4855E8EA-7BAA-4FCB-B259-96AB413A7B61}
+	EndGlobalSection
+EndGlobal
